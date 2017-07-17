@@ -1,1 +1,2 @@
-# juego-con-detecci-n-de-colores-openCV
+# 
+Colors and children
